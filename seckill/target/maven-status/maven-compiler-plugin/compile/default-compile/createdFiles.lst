@@ -1,0 +1,4 @@
+org\demo\entity\Seckill.class
+org\demo\entity\SuccessKilled.class
+org\demo\dao\SeckillDao.class
+org\demo\dao\SuccessKilledDao.class
